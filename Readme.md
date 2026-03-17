@@ -29,4 +29,3 @@ Update git submodules and run:
 
     $ make test
 
-
