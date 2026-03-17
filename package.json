@@ -1,0 +1,9 @@
+
+{ "name": "yaml",
+  "version": "0.2.3",
+  "description": "Yaml parser",
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "main": "./lib/yaml.js",
+  "repository": "tj/js-yaml",
+  "license": "MIT"
+}
